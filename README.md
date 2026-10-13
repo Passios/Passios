@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Passios Theodoros
 - 👀 I’m interested in Cpp, C, C#
-- 🌱 I’m currently learning Java, SQL, JavaScript
 - 💞️ I have Master's degree in the field of IT and Computer engineering
 
 <!---
